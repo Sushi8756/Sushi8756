@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sushi8756
 - 👀 I’m interested in video games and coding
-- 🌱 I’m currently learning Java (I'm also kinda self teaching html and lua)
-- 💞️ I’m looking to collaborate on nothing right now
+- 🌱 I’m currently learning AI (I'm also kinda self teaching html and lua)
+- 💞️ I’m looking to collaborate on anything I guess
 - 📫 How to reach me: on my Youtube ( https://youtube.com/@Sushi8756YT )
 
 <!---
